@@ -10,7 +10,7 @@ This page contains maths resources that I used for studying. I only post resourc
 
 ## Algebra
 
-- Abstract Algebra, Robert Ash
+- Abstract Algebra, by Robert Ash
 
 ## Topology
 
