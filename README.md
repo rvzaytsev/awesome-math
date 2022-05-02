@@ -1,5 +1,5 @@
 # awesome-math
-This page contains maths resources that I used for studying. I only post resources which I covered from start to end (or almost), i.e. something I used to learn the subject completely on my own and successfully - no cookbooks and encyclopedias. I don't make an attempt to only collect free resources, so no links, just titles. Al
+This page contains maths resources that I used for studying. I only post resources which I used to actually learn the subject - no cookbooks or encyclopedias. I don't make an attempt to only collect free resources.
 
 ## Contents
 
@@ -25,5 +25,5 @@ I will list my favourite authors, who taught many different topics. I did not li
 - Richard Borcherds (youtube channel)
 
 ## Contribute
-
-You can drop me an email if you want to add something r.zayt at mail dot ru, but I will have to use it myself before I add to the list.
+I would be very grateful if you could share something awesome you have come across with me.
+You can drop me an email if you would like to recommend something to r.zayt at mail dot ru. I will have to use it myself before I add it to the list though.
