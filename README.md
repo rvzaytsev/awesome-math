@@ -8,8 +8,8 @@ This page contains maths resources that I used for studying. I only post resourc
 
 - [Algebra](#algebra)
 - [Topology](#topology)
-- [Olympiad] (#olympiad)
-- [Authors] (#authors)
+- [Olympiad](#olympiad)
+- [Authors](#authors)
 
 ## Algebra
 
@@ -23,7 +23,7 @@ This page contains maths resources that I used for studying. I only post resourc
 - Putnam and Beyond, by Razvan Gelca and Titu Andreescu
 
 ## Authors
-I will list my favourite authors, who taught many different topics, I did not list all their materials above.
+I will list my favourite authors, who taught many different topics. I did not list all their materials above.
 - Robert Ash
 - Richard Borcherds (youtube channel)
 
